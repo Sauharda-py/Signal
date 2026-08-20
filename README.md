@@ -56,6 +56,8 @@ It looks at things like:
 
 It then gives the report a score along with specific strengths, weaknesses, and suggestions for improvement.
 
+![Multi-Agent Research System](image.png)
+
 ## Tech Stack
 
 - Python
