@@ -1,0 +1,36 @@
+# Python-generated files
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+
+
+
+.env
+.env.*
+
+.venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+
+.idea/
+.vscode/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+build/
+dist/
+*.egg-info/
+
+.DS_Store
+Thumbs.db
+
+.ipynb_checkpoints/
+*.log
